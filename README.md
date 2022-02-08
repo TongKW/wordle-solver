@@ -9,3 +9,8 @@ Javascript program that automatically solves Wordle based on information entropy
 ## Credit
 Thanks to 3Blue1Brown's video, Solving Wordle using information theory
 https://www.youtube.com/watch?v=v68zYyaEmEA
+
+## Remark
+There is still some features haven't implemented:
+  - consider the cost of guessing at certain round.
+  - applying sigmoid function to the word frequency map
