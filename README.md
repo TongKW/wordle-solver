@@ -1,5 +1,7 @@
 # wordle-solver
 Javascript program that automatically solves Wordle based on information entropy.
+## Demo
+![](https://github.com/TongKW/wordle-solver/blob/main/README.md)
 ## How to use
 1. Git clone this project and run "npm run build"
 2. Go to https://www.powerlanguage.co.uk/wordle/
